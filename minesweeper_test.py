@@ -1,4 +1,3 @@
-import parameterized
 from minesweeper import solution
 
 
